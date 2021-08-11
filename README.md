@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @babalontherion
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://babalontherion.com.br)
+[![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)]
 
 ##
 ![forthebadge](https://badgen.net/github/issues/babalontherion/babalontherion)
